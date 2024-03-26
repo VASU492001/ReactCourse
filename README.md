@@ -1,11 +1,13 @@
 REACT COURSE:-
 
-Introduction to ReactJS + Installation
-Creating our first react app
-Functions
-Events, Event Listeners and handlers
-Javascript String methods
-Callback Functions
+JAVASCRIPT BASICS are as follows: 
+
+Introduction to ReactJS + Installation,
+Creating our first react app,
+Functions,
+Events, Event Listeners and handlers,
+Javascript String methods,
+Callback Functions and
 Promises
 
 FIRST BASIC PROJECT : TEXTUTILS
